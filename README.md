@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srlausten
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in Machine Learning, Data Visualization, Predictive Analysis, Clustering/Classification, Computer Vision, and GIS
 
 <!---
